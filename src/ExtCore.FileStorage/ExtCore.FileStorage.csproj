@@ -4,12 +4,14 @@
     <Authors>Dmitry Sikorsky</Authors>
     <Copyright>Copyright © 2018 Dmitry Sikorsky</Copyright>
     <Description>The ExtCore.FileStorage extension component. Based on the ExtCore framework.</Description>
-    <VersionPrefix>5.1.0</VersionPrefix>
+    <VersionPrefix>5.2.0</VersionPrefix>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <AssemblyName>ExtCore.FileStorage</AssemblyName>
     <PackageId>ExtCore.FileStorage</PackageId>
     <PackageIconUrl>http://extcore.net/extcore_nuget_icon.png</PackageIconUrl>
     <PackageProjectUrl>http://extcore.net/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ExtCore/ExtCore</RepositoryUrl>
+    <LangVersion>8.0</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>

@@ -20,7 +20,7 @@ namespace ExtCore.WebApplication
     /// <param name="includingSubpaths">
     /// Determines whether a web application will discover and then get the discovered assemblies from the subfolders
     /// of a specific folder recursively. Might be used or ignored by an implementation of the
-    /// <see cref="IAssemblyProvider">IAssemblyProvider</see> interface.</param>
+    /// <see cref="IAssemblyProvider">IAssemblyProvider</see> interface.
     /// </param>
     /// <returns>The discovered and loaded assemblies.</returns>
     IEnumerable<Assembly> GetAssemblies(string path, bool includingSubpaths);
